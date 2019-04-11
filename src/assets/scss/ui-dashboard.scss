@@ -1,0 +1,99 @@
+/*!
+
+ =========================================================
+ * Now UI Dashboard PRO React - v1.2.0 based on Now UI Dashboard PRO - v1.1.2
+ =========================================================
+
+ * Product Page: https://www.creative-tim.com/product/now-ui-dashboard
+ * Copyright 2017 Creative Tim (https://www.creative-tim.com)
+ * Licensed under MIT (https://github.com/creativetimofficial/now-ui-dashboard/blob/master/LICENSE.md)
+
+ * Designed by www.invisionapp.com Coded by www.creative-tim.com
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
+
+@import 'ui-dashboard/variables';
+@import 'ui-dashboard/mixins';
+
+// Core CSS
+@import 'ui-dashboard/buttons';
+@import 'ui-dashboard/social-buttons';
+@import 'ui-dashboard/inputs';
+@import 'ui-dashboard/typography';
+@import 'ui-dashboard/misc';
+@import 'ui-dashboard/navbar';
+@import 'ui-dashboard/dropdown';
+@import 'ui-dashboard/alerts';
+@import 'ui-dashboard/images';
+@import 'ui-dashboard/nucleo-outline';
+@import 'ui-dashboard/tables';
+@import 'ui-dashboard/footers';
+@import 'ui-dashboard/fixed-plugin';
+
+// components
+@import 'ui-dashboard/checkboxes-radio';
+@import 'ui-dashboard/progress';
+@import 'ui-dashboard/badges';
+@import 'ui-dashboard/pagination';
+@import 'ui-dashboard/info-areas';
+@import 'ui-dashboard/pills';
+@import 'ui-dashboard/tabs';
+@import 'ui-dashboard/popups';
+@import 'ui-dashboard/modals';
+@import 'ui-dashboard/carousel';
+@import 'ui-dashboard/sidebar-and-main-panel';
+@import 'ui-dashboard/timeline';
+@import 'ui-dashboard/fileupload';
+
+
+
+// cards
+@import 'ui-dashboard/cards';
+@import "ui-dashboard/cards/card-chart";
+@import "ui-dashboard/cards/card-user";
+@import "ui-dashboard/cards/card-plain";
+
+@import "ui-dashboard/cards/card-background";
+@import "ui-dashboard/cards/card-collapse";
+@import "ui-dashboard/cards/card-map";
+@import "ui-dashboard/cards/card-contributions";
+@import "ui-dashboard/cards/card-info-area";
+@import "ui-dashboard/cards/card-lock";
+@import "ui-dashboard/cards/card-pricing";
+@import "ui-dashboard/cards/card-profile";
+@import "ui-dashboard/cards/card-signup";
+@import "ui-dashboard/cards/card-stats-mini";
+@import "ui-dashboard/cards/card-stats";
+@import "ui-dashboard/cards/card-subcategories";
+@import "ui-dashboard/cards/card-testimonials";
+@import "ui-dashboard/cards/card-wizard";
+
+// Plugins CSS
+@import "ui-dashboard/plugins/plugin-animate-bootstrap-notify";
+@import "ui-dashboard/plugins/plugin-bootstrap-switch";
+@import "ui-dashboard/plugins/plugin-card-wizard";
+@import "ui-dashboard/plugins/plugin-datatables.net";
+@import "ui-dashboard/plugins/plugin-nouislider";
+@import "ui-dashboard/plugins/plugin-perfect-scrollbar";
+@import "ui-dashboard/plugins/plugin-react-big-calendar";
+@import "ui-dashboard/plugins/plugin-react-bootstrap-sweetalert";
+@import "ui-dashboard/plugins/plugin-react-bootstrap-switch";
+@import "ui-dashboard/plugins/plugin-react-datetime";
+@import "ui-dashboard/plugins/plugin-react-select";
+@import "ui-dashboard/plugins/plugin-react-simple-maps";
+@import "ui-dashboard/plugins/plugin-react-table";
+@import "ui-dashboard/plugins/plugin-react-tagsinput";
+
+
+
+// example pages and sections
+@import 'ui-dashboard/example-pages';
+@import 'ui-dashboard/sections';
+
+
+@import 'ui-dashboard/responsive';
+@import 'ui-dashboard/media-queries';
