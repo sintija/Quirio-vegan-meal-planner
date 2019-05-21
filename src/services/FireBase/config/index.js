@@ -2,7 +2,7 @@
 import firebase from 'firebase'; 
 
 const config = {
-	apiKey: "AIzaSyCAKsfRAQPFT6mt4hegywlM6H6pq5-AYz0",
+	apiKey: "",
     authDomain: "quirioapp.firebaseapp.com",
     databaseURL: "https://quirioapp.firebaseio.com",
     projectId: "quirioapp",
