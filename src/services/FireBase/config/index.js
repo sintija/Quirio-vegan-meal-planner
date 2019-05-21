@@ -7,7 +7,7 @@ const config = {
     databaseURL: "https://quirioapp.firebaseio.com",
     projectId: "quirioapp",
     storageBucket: "quirioapp.appspot.com",
-    messagingSenderId: "141279243632"
+    messagingSenderId: ""
 }; 
 
 const fireb = firebase.initializeApp(config); 
