@@ -12,8 +12,8 @@ export default class YummlyApiService {
     this.axiosInstance = axios.create({
       baseURL: "https://api.yummly.com/v1/",
       headers: {
-        "X-Yummly-App-ID": "3f0a2d34",
-        "X-Yummly-App-Key": "3233cd03cc53cf7f0625e5e0bfe5f841"
+        "X-Yummly-App-ID": "",
+        "X-Yummly-App-Key": ""
       }
     });
   }
